@@ -1,0 +1,92 @@
+<div style="text-align: center;"><h1 id="unit0"><b>Unit 1.2</b></h1></div><br>
+<div style="text-align: right;">8/2/2020<br>
+</div><div style="text-align: center;"><b>Assignment: </b><br>
+Develop a Home Page or landing page to be able to record weekly assignments<br>
+</div>
+<br>
+<br>
+<div grid-row="2" grid-pad="2.5" grid-gutter="5" grid-responsive="">
+	<div grid-col="7" grid-pad="2.5"><div style="text-align: center"><b>Starting Off</b><br></div>
+I started out by thinking if I wanted to integrate my current artist website and add a foundations page, or if I wanted to create a new website purely from scratch. The former sounded less daunting, and with the reccomendation by Corey I decided it would be easier to integrate it with what I have since I don’t have any prior experience using any kind of coding.<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</div>
+	<div grid-col="5" grid-pad="2.5" class=""><b>Image</b>: Experimenting with the website code that Corey gave us<br>
+{image 3}<br>
+<br>
+</div>
+</div><br>
+<br>
+<div grid-row="" grid-pad="2.5" grid-gutter="5" grid-responsive="">
+	<div grid-col="7" grid-pad="2.5" class="">I quickly realized that the platform I use to run my website, CargoCollective, allows you to access and edit your front house (HTML and CSS) code and I began to devlop them and yanked them into Visual Studio Code. It was really confusing at first and I feel like I would have understood more had I just wrote everything myself. Here’s where I understand what Corey meant by writing your own code is easier, because the mistakes are yours vs using a platform like cargo.<br>
+<br>
+
+It feels (kind of)&nbsp;unbelievable that you can pull files that you created online to your desktop, without downloading them in the traditional sense. What really helped me understand this material is really just writing everything down on paper. I think in future assignments I should share my notes too (see below)<br>
+<br>
+<br>
+<br>
+</div>
+	<div grid-col="5" grid-pad="2.5" class=""><b>Image 1: </b>Screenshot of CargoCollective webpage editor, HTML + CSS are accesible.<br>
+{image 5 scale="100"}
+<b>Image 2: </b>Screenshot of Visual Studio Code open,&nbsp; I have both my HTML + CSS from my webpage open<br>
+{image 8 scale="100"}<br>
+</div>
+</div><br>
+<br>
+
+<div grid-row="" grid-pad="2.5" grid-gutter="5" grid-responsive="">
+	<div grid-col="7" grid-pad="2.5" class="">Conclusion<br>
+<br>
+I feel like I did just OK on this assignment, I am just a little bit overwhelmed but I still want to take some time after this assignment to be able to improve this template.<br><br>
+I feel like I have the tools I need to go further.<br>
+<br>
+Here are some things I would like to add to this unit template and things I need to learn<br>
+<br>
+<ol><li>How to use a package manager (maybe this one: https://www.npmjs.com/package/gallery#data-gallery-src)</li><li>Understand responsive design (ex. on mobile) and how to integrate that without relying on CargoCollective</li><li>Add a drop down menu and have each unit have its own page (instead of jump to page)</li></ol></div>
+	<div grid-col="5" grid-pad="2.5" class="">{image 9}</div>
+</div><br>
+<br>
+<div style="text-align: center;"><h1 id="unit0"><b>Unit 0 TEMPLATE</b></h1></div><br>
+<div style="text-align: right;">DATE</div><div style="text-align: center;"><b>Assignment: </b><br><br>
+</div>
+<br>
+<br>
+<div grid-row="2" grid-pad="2.5" grid-gutter="5" grid-responsive="">
+	<div grid-col="7" grid-pad="2.5"><div style="text-align: center"><b>Starting Off</b><br></div>TEXT<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</div>
+	<div grid-col="5" grid-pad="2.5" class=""><b>Image</b>:<br>
+<br>
+<br>
+</div>
+</div><br>
+<br>
+<div grid-row="" grid-pad="2.5" grid-gutter="5" grid-responsive="">
+	<div grid-col="7" grid-pad="2.5" class="">TEXT<br>
+<div style="text-align: center"><br></div>
+<br>
+<br>
+<br>
+</div>
+	<div grid-col="5" grid-pad="2.5" class=""><b>Image: </b><br>
+</div>
+</div><br>
+<br>
+
+<div grid-row="" grid-pad="2.5" grid-gutter="5" grid-responsive="">
+	<div grid-col="7" grid-pad="2.5" class="">Conclusion</div>
+	<div grid-col="5" grid-pad="2.5" class=""><b>Image: </b></div>
+</div><br>
+<br><br>
+<br>
+<br>
+<br>
